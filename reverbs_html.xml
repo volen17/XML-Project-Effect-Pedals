@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="reverbs_html.xsl"?>
+
+<!DOCTYPE effect_pedal_catalogue SYSTEM "effect_pedal_catalogue.dtd">
+
+<effect_pedal_catalogue>
+    <effect_pedal analog_or_digital="Digital">
+        <image>bigsky.jpg</image>
+        <name>
+            <manufacturer_name>Strymon</manufacturer_name>
+            <model_name>BigSky</model_name>
+        </name>
+        <type>Multidimensional Reverb</type>
+        <year_of_manufacturing>2016</year_of_manufacturing>
+        <price currency="лв.">1056.20</price>
+        <power>
+            <polarity>- в средата</polarity>
+            <voltage>9 DC</voltage>
+            <current_draw>300mA</current_draw>
+            <battery has="Не"/>
+        </power>
+        <dimensions>
+            <width unit="см">17,5</width>
+            <height unit="см">5</height>
+            <length unit="см">12,7</length>
+        </dimensions>
+        <weight unit="гр">907</weight>
+        <true_bypass has="Да"/>
+        <description>
+            <text>
+                Strymon се превърнаха в определящите тенденции за мощни, цифрово управлявани педали с множество ефекти. Big Sky е едно от техните водещи предложения; всеобхватна реверберационна единица, която ви позволява да постигнете практически всеки възможен реверберационен звук.
+            </text>
+        </description>
+    </effect_pedal>
+</effect_pedal_catalogue>

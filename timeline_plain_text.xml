@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="timeline_plain_text.xsl"?>
+
+<!DOCTYPE effect_pedal_catalogue SYSTEM "effect_pedal_catalogue.dtd">
+
+<effect_pedal_catalogue>
+    <effect_pedal analog_or_digital="Digital">
+        <image>timeline.jpg</image>
+        <name>
+            <manufacturer_name>Strymon</manufacturer_name>
+            <model_name>Timeline</model_name>
+        </name>
+        <type>Multidimensional Delay</type>
+        <year_of_manufacturing>2016</year_of_manufacturing>
+        <price currency="лв.">937.94</price>
+        <power>
+            <polarity>- в средата</polarity>
+            <voltage>9 DC</voltage>
+            <current_draw>300mA</current_draw>
+            <battery has="Не"/>
+        </power>
+        <dimensions>
+            <width unit="см">17,5</width>
+            <height unit="см">5</height>
+            <length unit="см">12,7</length>
+        </dimensions>
+        <weight unit="гр">880</weight>
+        <true_bypass has="Да"/>
+        <description>
+            <text>
+                Вероятно един от, ако не и най-обсъжданите педали за китарни ефекти на планетата, Strymon TimeLine със сигурност предизвиква шум! И така, за какво е цялата суматоха? TimeLine всъщност представлява 12 различни дилея в една кутия, съставена от прости цифрови дилеи през dTape и dBucket дилеи, взети от други педали на Strymon, чак до нови и безумни дилеи като Ice, Swell, Trem, Filter и LoFi. Ако се сетите за функция, която ще ви е необходима от дилей педал, TimeLine вече я има!
+            </text>
+        </description>
+    </effect_pedal>
+</effect_pedal_catalogue>

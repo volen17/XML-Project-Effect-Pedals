@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!ELEMENT effect_pedal_catalogue (effect_pedal+)>
+        <!ELEMENT effect_pedal (image, name, type, year_of_manufacturing, price, power, dimensions, weight, true_bypass, description)>
+        <!ELEMENT image (#PCDATA)>
+        <!ELEMENT name (manufacturer_name, model_name)>
+        <!ELEMENT manufacturer_name (#PCDATA)>
+        <!ELEMENT model_name (#PCDATA)>
+        <!ELEMENT type (#PCDATA)>
+        <!ELEMENT year_of_manufacturing (#PCDATA)>
+        <!ELEMENT price (#PCDATA)>
+        <!ELEMENT power (polarity, voltage, current_draw, battery)>
+        <!ELEMENT polarity (#PCDATA)>
+        <!ELEMENT voltage (#PCDATA)>
+        <!ELEMENT current_draw (#PCDATA)>
+        <!ELEMENT battery (#PCDATA)>
+        <!ELEMENT dimensions (width, height, length)>
+        <!ELEMENT width (#PCDATA)>
+        <!ELEMENT height (#PCDATA)>
+        <!ELEMENT length (#PCDATA)>
+        <!ELEMENT weight (#PCDATA)>
+        <!ELEMENT true_bypass (#PCDATA)>
+        <!ELEMENT description (text)>
+        <!ELEMENT text (#PCDATA)>
+
+        <!ATTLIST effect_pedal analog_or_digital (Digital|Analog) #IMPLIED>
+        <!ATTLIST price currency CDATA #REQUIRED>
+        <!ATTLIST battery has (Да|Не) #IMPLIED>
+        <!ATTLIST width unit CDATA #REQUIRED>
+        <!ATTLIST height unit CDATA #REQUIRED>
+        <!ATTLIST length unit CDATA #REQUIRED>
+        <!ATTLIST weight unit CDATA #REQUIRED>
+        <!ATTLIST true_bypass has (Да|Не) #IMPLIED>

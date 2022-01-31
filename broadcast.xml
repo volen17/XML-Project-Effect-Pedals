@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE effect_pedal_catalogue SYSTEM "effect_pedal_catalogue.dtd">
+
+<effect_pedal_catalogue>
+    <effect_pedal analog_or_digital="Analog">
+        <image>broadcast.jpg</image>
+        <name>
+            <manufacturer_name>Hudson Electronics</manufacturer_name>
+            <model_name>Dual Broadcast</model_name>
+        </name>
+        <type>Germanium Preamp</type>
+        <year_of_manufacturing>2015</year_of_manufacturing>
+        <price currency="лв.">388.13</price>
+        <power>
+            <polarity>- в средата</polarity>
+            <voltage>9-24 DC</voltage>
+            <current_draw>20mA</current_draw>
+            <battery has="Не"/>
+        </power>
+        <dimensions>
+            <width unit="см">11,9</width>
+            <height unit="см">5,5</height>
+            <length unit="см">9,3</length>
+        </dimensions>
+        <weight unit="гр">366</weight>
+        <true_bypass has="Да"/>
+        <description>
+            <text>
+                Broadcast е германиев предусилвател клас-А, базиран на класическите конзоли за излъчване от 60-те години на миналия век. Broadcast може да покрие всичко от искрящо чисто усилване до прозрачен овърдрайв, всичко със здравословна доза сила на звука, която да накара вашия усилвател. Broadcast включва специално подбран трансформатор със стоманена сърцевина Triad и германиев транзистор. Увеличаването на усилването при излъчването започва да насища трансформатора и дискретната верига на педала, което води до нежна и динамична компресия, съчетана с фино удебеляване на средния диапазон. Когато превключвателят на усилването е във висока настройка и контролът на подстригването е изключен, Broadcast започва да издава по-тежки изкривени звуци с топла и размита граница към тях. Излъчването обхваща широк спектър от задвижени и изкривени тонове, като същевременно остава динамичен, реагирайки добре на атаката и фините нюанси на всеки изпълнител.
+            </text>
+        </description>
+    </effect_pedal>
+</effect_pedal_catalogue>

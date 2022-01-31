@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="polytune_xml.xsl"?>
+
+<!DOCTYPE effect_pedal_catalogue SYSTEM "effect_pedal_catalogue.dtd">
+
+<effect_pedal_catalogue>
+    <effect_pedal analog_or_digital="Digital">
+        <image>polytune.jpg</image>
+        <name>
+            <manufacturer_name>TC Electronic</manufacturer_name>
+            <model_name>Polytune 3 Mini</model_name>
+        </name>
+        <type>Tuner</type>
+        <year_of_manufacturing>2019</year_of_manufacturing>
+        <price currency="лв.">176.31</price>
+        <power>
+            <polarity>- в средата</polarity>
+            <voltage>9 DC</voltage>
+            <current_draw>100mA</current_draw>
+            <battery has="Не"/>
+        </power>
+        <dimensions>
+            <width unit="см">5,1</width>
+            <height unit="см">4,5</height>
+            <length unit="см">9,3</length>
+        </dimensions>
+        <weight unit="гр">160</weight>
+        <true_bypass has="Да"/>
+        <description>
+            <text>
+                Компактният, бърз и точен тунер е основата на вашия педалборд. TC Electronic Polytune 3 Mini отвежда нещата по-далеч с вградения Bonafide буфер, за да поддържа вашия тон чист.
+            </text>
+        </description>
+    </effect_pedal>
+</effect_pedal_catalogue>

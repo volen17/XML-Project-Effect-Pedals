@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="eq_xml.xsl"?>
+
+<!DOCTYPE effect_pedal_catalogue SYSTEM "effect_pedal_catalogue.dtd">
+
+<effect_pedal_catalogue>
+    <effect_pedal analog_or_digital="Digital">
+        <image>eq.jpg</image>
+        <name>
+            <manufacturer_name>Source Audio</manufacturer_name>
+            <model_name>EQ2</model_name>
+        </name>
+        <type>Programmable Equalizer</type>
+        <year_of_manufacturing>2020</year_of_manufacturing>
+        <price currency="лв.">669.96</price>
+        <power>
+            <polarity>- в средата</polarity>
+            <voltage>9 DC</voltage>
+            <current_draw>180mA</current_draw>
+            <battery has="Не"/>
+        </power>
+        <dimensions>
+            <width unit="см">7</width>
+            <height unit="см">5,1</height>
+            <length unit="см">11,4</length>
+        </dimensions>
+        <weight unit="гр">280</weight>
+        <true_bypass has="Да"/>
+        <description>
+            <text>
+                По собствените думи на Source Audio, програмируемият еквалайзер EQ2 е „най-мощният и усъвършенстван еквалайзер на планетата“. Смело твърдение, но въз основа на впечатляващия си набор от функции - може и да е вярно! След оригиналния им програмируем EQ педал, използван от хора като Дейвид Гилмор и Джон Мейър, иновативният Source Audio EQ2 добавя още повече функционалност.
+            </text>
+        </description>
+    </effect_pedal>
+</effect_pedal_catalogue>

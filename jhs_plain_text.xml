@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="jhs_plain_text.xsl"?>
+
+<!DOCTYPE effect_pedal_catalogue SYSTEM "effect_pedal_catalogue.dtd">
+
+<effect_pedal_catalogue>
+    <effect_pedal analog_or_digital="Analog">
+        <image>jhs.jpg</image>
+        <name>
+            <manufacturer_name>JHS</manufacturer_name>
+            <model_name>Unicorn V2</model_name>
+        </name>
+        <type>Bulb Driven Uni-vibe</type>
+        <year_of_manufacturing>2018</year_of_manufacturing>
+        <price currency="лв.">528.92</price>
+        <power>
+            <polarity>- в средата</polarity>
+            <voltage>9 DC</voltage>
+            <current_draw>100mA</current_draw>
+            <battery has="Не"/>
+        </power>
+        <dimensions>
+            <width unit="см">5,6</width>
+            <height unit="см">4,1</height>
+            <length unit="см">12,1</length>
+        </dimensions>
+        <weight unit="гр">290</weight>
+        <true_bypass has="Да"/>
+        <description>
+            <text>
+                Звънлива модулация, странен вътрешен и външен phaser, шеметни ротационни звуци – всички тези легендарни ефекти са натъпкани в Unicorn V2. Трябва да изслушате Star Spangled Banner на Хендрикс или Breathe на Pink Floyd, за да получите представа за необичайните звуци, които може да издава това митично създание.
+            </text>
+        </description>
+    </effect_pedal>
+</effect_pedal_catalogue>

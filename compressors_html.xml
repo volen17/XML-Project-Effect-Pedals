@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="compressors_html.xsl"?>
+
+<!DOCTYPE effect_pedal_catalogue SYSTEM "effect_pedal_catalogue.dtd">
+
+<effect_pedal_catalogue>
+	<effect_pedal analog_or_digital="Analog">
+		<image>cali76.jpg</image>
+		<name>
+			<manufacturer_name>Origin Effects</manufacturer_name>
+			<model_name>Cali76 Compact Deluxe</model_name>
+		</name>
+		<type>Compressor</type>
+		<year_of_manufacturing>2014</year_of_manufacturing>
+		<price currency="лв.">632.78</price>
+		<power>
+			<polarity>- в средата</polarity>
+			<voltage>9/18V DC</voltage>
+			<current_draw>77/104mA</current_draw>
+			<battery has="Не"/>
+		</power>
+		<dimensions>
+			<width unit="см">14,3</width>
+			<height unit="см">6,6</height>
+			<length unit="см">6,5</length>
+		</dimensions>
+		<weight unit="гр">620</weight>
+		<true_bypass has="Да"/>
+		<description>
+			<text>Cali76 се счита за един от най-добрите, ако не и най-добрия компресор, който се предлага на пазара днес. Педалът е проектиран, за да ви даде използваем, висококачествен компресор, без твърде много да се забърквате с копчета, които са трудни за разбиране.</text>
+		</description>
+	</effect_pedal>
+</effect_pedal_catalogue>

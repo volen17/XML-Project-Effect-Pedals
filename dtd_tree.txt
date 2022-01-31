@@ -1,0 +1,58 @@
+effect_pedal_catalogue
+         |___
+	      effect_pedal(analog_or_digital)
+		  |
+		  |
+		  |___
+	  	  |    image
+		  |
+		  |___
+		  |    name
+		  |      |___
+		  |      |    manufacturer_name
+		  |      |___
+		  |           model_name
+		  |
+		  |___
+ 		  |    type
+		  |
+		  |___
+		  |    year_of_manufacturing
+		  |
+		  |___
+		  |    price(currency)
+		  |
+		  |___
+		  |    power
+		  |      |___
+		  |      |    polarity
+		  |      |___
+		  |      |    voltage
+		  |      |___
+		  |      |    current_draw
+                  |      |___
+                  |           battery(has)
+		  |
+	 	  |___
+		  |    dimensions
+		  |      |___
+		  |      |    width(unit)
+		  |      |___
+		  |      |    height(unit)
+		  |      |___
+		  |           length(unit)
+		  |
+		  |___
+		  |    weight(unit)
+		  |
+		  |___
+		  |    true_bypass(has)
+		  |
+		  |___
+		       description
+		         |___
+		              text
+
+
+
+

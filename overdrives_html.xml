@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="overdrives_html.xsl"?>
+
+<!DOCTYPE effect_pedal_catalogue SYSTEM "effect_pedal_catalogue.dtd">
+
+<effect_pedal_catalogue>
+    <effect_pedal analog_or_digital="Analog">
+        <image>lightspeed.jpg</image>
+        <name>
+            <manufacturer_name>Greer Amps</manufacturer_name>
+            <model_name>Lightspeed</model_name>
+        </name>
+        <type>Organic Overdrive</type>
+        <year_of_manufacturing>2018</year_of_manufacturing>
+        <price currency="лв.">435.18</price>
+        <power>
+            <polarity>- в средата</polarity>
+            <voltage>9 DC</voltage>
+            <current_draw>11mA</current_draw>
+            <battery has="Да" />
+        </power>
+        <dimensions>
+            <width unit="см">6,7</width>
+            <height unit="см">5,5</height>
+            <length unit="см">12</length>
+        </dimensions>
+        <weight unit="гр">268</weight>
+        <true_bypass has="Да" />
+        <description>
+            <text>
+                Lightspeed е един от най-популярните педали от усилвателите на Greer и с добра причина! Звучи невероятно. Това е прозрачен овърдрайв, който е създаден специално да запази органичния звук на вашата китара, без да променя тоналността твърде много. Въпреки това, може да се настрои да „оцветява“ звука малко повече и да изтласка чист усилвател над ръба или да добави сладък състейн към вече крънчи канал.
+            </text>
+        </description>
+    </effect_pedal>
+    <effect_pedal analog_or_digital="Analog">
+        <image>vemuram.jpg</image>
+        <name>
+            <manufacturer_name>Vemuram</manufacturer_name>
+            <model_name>Jan Ray</model_name>
+        </name>
+        <type>Overdrive</type>
+        <year_of_manufacturing>2017</year_of_manufacturing>
+        <price currency="лв.">844.49</price>
+        <power>
+            <polarity>- в средата</polarity>
+            <voltage>9 DC</voltage>
+            <current_draw>5mA</current_draw>
+            <battery has="Да" />
+        </power>
+        <dimensions>
+            <width unit="см">7</width>
+            <height unit="см">5</height>
+            <length unit="см">11,2</length>
+        </dimensions>
+        <weight unit="гр">428</weight>
+        <true_bypass has="Да" />
+        <description>
+            <text>
+                Jan Ray е проектиран да пресъздаде ударния ясен тон на усилвателите Blackface Fender от 60-те - така нареченият звук "Fender Magic 6". Лесен за управление овърдрайв, запазващ характеристиките на китарата със страхотен състейн без неестествена компресия.
+            </text>
+        </description>
+    </effect_pedal>
+</effect_pedal_catalogue>
